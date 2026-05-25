@@ -14,5 +14,4 @@ A modern calculator web application built using Python and Streamlit.
 - Python
 - Streamlit
 
-## Author
-Anshika Saxena
+## Demo Link :- https://codsoft-internship-4g6cp7vvpgjtrxup9bguwj.streamlit.app/
