@@ -29,16 +29,11 @@ A contact management system with add, search, delete, and interactive contact di
 
 # Live Project Links
 
-Calculator Web App :- 
-https://codsoft-internship-4g6cp7vvpgjtrxup9bguwj.streamlit.app/
-Contact Book :- 
-https://codsoft-internship-8izbuknvjqyqhcz3dxurfk.streamlit.app/
-Password Generator :- 
-https://codsoft-internship-hdcg2ashecdmrua57phere.streamlit.app/
-Rock Paper Scissors :- 
-https://codsoft-internship-narjrmqrdmlxwwyevlx5jw.streamlit.app/
-ToDo Manager :- 
-https://codsoft-internship-knzfcuwvmgmtwb4mcrpmwd.streamlit.app/
+Calculator Web App :- https://codsoft-internship-4g6cp7vvpgjtrxup9bguwj.streamlit.app/
+Contact Book :- https://codsoft-internship-8izbuknvjqyqhcz3dxurfk.streamlit.app/
+Password Generator :- https://codsoft-internship-hdcg2ashecdmrua57phere.streamlit.app/
+Rock Paper Scissors :- https://codsoft-internship-narjrmqrdmlxwwyevlx5jw.streamlit.app/
+ToDo Manager :- https://codsoft-internship-knzfcuwvmgmtwb4mcrpmwd.streamlit.app/
 
 #  Repository Structure
 
