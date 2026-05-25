@@ -29,7 +29,6 @@ A contact management system with add, search, delete, and interactive contact di
 
 # Live Project Links
 
- Project | Live Demo 
  Calculator Web App | Add Your Link Here |
  Password Generator | Add Your Link Here |
  To-Do Manager | Add Your Link Here |
