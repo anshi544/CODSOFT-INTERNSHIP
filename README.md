@@ -29,11 +29,16 @@ A contact management system with add, search, delete, and interactive contact di
 
 # Live Project Links
 
- Calculator Web App | Add Your Link Here |
- Password Generator | Add Your Link Here |
- To-Do Manager | Add Your Link Here |
- AI Rock Paper Scissors | Add Your Link Here |
- Contact Book Manager | Add Your Link Here |
+ Calculator Web App 
+ |https://codsoft-internship-4g6cp7vvpgjtrxup9bguwj.streamlit.app/|
+ Password Generator 
+ ||
+ To-Do Manager 
+ ||
+ AI Rock Paper Scissors 
+ ||
+ Contact Book Manager 
+ ||
 
 #  Repository Structure
 
