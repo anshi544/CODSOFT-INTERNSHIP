@@ -37,8 +37,8 @@ ToDo Manager :- https://codsoft-internship-knzfcuwvmgmtwb4mcrpmwd.streamlit.app/
 #  Repository Structure
 
 CODSOFT-INTERNSHIP
- Calculator_Web_App
- Password_Generator
- Todo_Manager
- RockPaperScissors_AI
- Contact_Book
+ Calculator Web App
+ Password Generator
+ Todo Manager
+ Rock Paper Scissors AI
+ Contact Book
